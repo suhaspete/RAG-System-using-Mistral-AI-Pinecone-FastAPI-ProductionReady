@@ -1,0 +1,11 @@
+pinecone-haystack #pinecone vector store for storing the embeddings. 
+haystack-ai
+fastapi
+uvicorn  #provides a server for fastapi. 
+python-dotenv #for loading the environment variables. 
+pathlib
+pypdf
+sentence-transformers
+python-multipart
+
+-e .  #used for installing the local package ie. QASystem in our case.  this code is basically running the setup.py file 
